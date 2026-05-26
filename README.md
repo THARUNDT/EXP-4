@@ -1,11 +1,11 @@
 # EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
-AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
+## AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
-COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
+## COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
 
-THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
+## THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
 
 Half Wave Rectifier
 
@@ -34,20 +34,34 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+# CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+## Half wave rectifier with filter:
+<img width="1055" height="687" alt="image" src="https://github.com/user-attachments/assets/85ea0eb9-b4eb-4b51-80e5-33e82f539220" />
 
-Bridge rectifier with filter:
-
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
-
-WAVEFORM:
+## Bridge rectifier with filter:
+<img width="1008" height="581" alt="image" src="https://github.com/user-attachments/assets/44f23c3d-7f8a-43cc-838c-126174c909b9" />
 
 
-RESULT:
+## TABULAR COLUMN:
+## Rectifier without filter:
+<img width="1523" height="444" alt="image" src="https://github.com/user-attachments/assets/6979667a-0fd6-445f-9538-8c18f32915cc" />
+
+## TABULAR COLUMN:
+## Rectifier with filter:
+<img width="1397" height="300" alt="image" src="https://github.com/user-attachments/assets/9b8449db-f70e-45ef-aa1e-c63383aee7cd" />
+
+
+# WAVEFORM:
+##  Half wave rectifier with filter:
+
+<img width="758" height="398" alt="image" src="https://github.com/user-attachments/assets/79537794-f12a-450a-bbdd-f1eb50d0fd8e" />
+
+## Bridge rectifier with filter:
+
+<img width="758" height="398" alt="image" src="https://github.com/user-attachments/assets/7ed4165f-1a7e-416d-8111-6512eafa93d0" />
+
+
+## RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
